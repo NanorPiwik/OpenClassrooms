@@ -1,0 +1,14 @@
+Critique du livre "Il était une fois Linux" par Linus Torvald
+
+Vous hésitez à acheter la biographie officielle de celui qui a crée Linux? Je l'ai fait pour vous, acheté et lu, je ne peux que vous le recommander. En voici les raisons.
+
+Pourquoi j'ai acheté ce livre?
+
+J'ai fait l'erreur de contacter le père fondateur du logiciel Libre, Richard Matthew Stallman il y a de cela quelques mois sans m'être renseigné sur sa personnalité... grave erreur. Même si il est très accessible, réponse à vos messages sous 24 heures, RMS n'en reste pas moins une personnalité. Il y a donc des mots, des phrases, bref des choses à ne pas dire. Si j'avais lu sa biographie officielle, je n'aurai probablement jamais écrit dans mon mail que je suis un fan de Linux, mais un fan de GNU/Linux. Et probablement plein d'autres points sur lesquels j'aurai fait attention. Dans cette optique j'ai appris une leçon, si vous devez communiquer avec une personnalité, renseignez vous d'abord sur elle.
+Je sais, je m'étale, je m'étale, mais venons en à ce qui vous amène à lire cet article... et la biographie de Linus Torvald dans tout cela.
+
+Mon avis sur la biographie de Linus Torvald
+
+Contrairement à celle de Stallman qui est assez austère, un peu technique, et surtout très pointilleuse, celle de Linus Torvald est décontractée au possible. En fait une grande partie de l'ouvrage est consacrée par ce que le créateur de Linux appelle: "La recherche du sens de la vie". En fait pour Torvald, le but ultime de l'homme est de s'amuser. L'ordinateur, la technologie, n'est pour lui qu'un moyen servant à acquérir un statut profesionnel, pour obtenir des fonds, mais qu'au final, si on avait les fonds on irait de suite s'amuser.
+On est déçu d'y lire qu'on ne rencontrera probablement jamais Linus Torvald en personne car il n'aime pas trop les gens, ne répond quasiment jamais par téléphone et encore moins par e-mail (d'autant plus si on cherche à le faire intervenir pour une conférence). Mais d'un autre côté on y découvre quelqu'un de sincère et de sympathique. Je retiens surtout cette phrase "il ne faut pas tout prendre au sérieux" qui résume très bien la philosophie de Linus Torvald.
+Je qualifierais ce livre d'un vrai rayon de soleil dans le domaine informatique, je ne peux que vous le recommander.
